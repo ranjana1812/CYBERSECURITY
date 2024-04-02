@@ -86,6 +86,7 @@ MYSQL 3306 PORT
 Classless Inter-Domain Routing (CIDR) is an IP address allocation method that improves data routing efficiency on the internet.
 256 IP ADDRESSS IS POSSSIBLE
 198.168.1.255->256 IPS
+ping ICMP protocol
 
 
 
